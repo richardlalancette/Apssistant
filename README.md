@@ -1,4 +1,4 @@
-# Simplified Chinese instructions
+# Instructions
 ----------
 ## support
 
