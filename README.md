@@ -60,7 +60,7 @@ If you can not use the foreground picker shortcut feature on a non-system defaul
 
 This function combines the color picker with Alt color, using the previous version of Photoshop CS5.
 * Conflict with "Disable Alt menu key". *
-### 4. Prospect Picker Map Alt
+### 4. Disable Standmenu Alt key shortcut (Fix Alt key bug)
 Only Photoshop CS5 and above can be seen, need to enter Photoshop CS5 above the set of color picker shortcut keys. * This function conflicts with the "Disable Alt menu key". *
 
 ### 5. Modify the brush range
