@@ -15,10 +15,10 @@ Function version | saved automatically | disable the Alt key menu | HUD color pi
 **6**|○|○|/|○|×|○|○|○|×
 
 
- * / No this function
- * Does not support
- * Support
- * Perfect support
+* / No this function
+* × does not support
+* ○ Support
+* ☀ perfect support
 
 * CS3 for unexplained reasons can not be perfect to support the foreground picker-related functions, check the *
 
