@@ -2,7 +2,7 @@
 ----------
 ## support
 
-Quick Release Create a New Layer | 3dsMax Map Synchronization | Modify Undo / Redo Shortcut Keys | Auto / Double-click the tray to start Photoshop
+Function version | saved automatically | disable the Alt key menu | HUD color picker enhancements | foreground color picker shortcuts | modify the scope of the brush | quickly create a new layer | 3dsMax map synchronization | modify undo / redo shortcuts | Auto / Double-click the tray to start
 :----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:
 **CC**|○|○|☀|☀|☀|○|○|○|○
 **CS6**|○|○|☀|☀|☀|○|○|○|○
